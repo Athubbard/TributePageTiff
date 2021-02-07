@@ -1,1 +1,39 @@
-﻿
+﻿#logo {
+    height: 75px;
+    width: 120px;
+    display: block;
+    margin-left: 70px;
+    margin-right: auto;
+    margin-top: 10px;
+    
+    padding-bottom:10px;
+}
+
+h1 {
+    text-shadow: 5px 5px 5px #636063;
+    color: white;
+    
+}
+
+#image {
+    box-shadow: 8px 10px 8px #62197d;
+    align-content: center;
+}
+
+#img-caption {
+    font-family: "Marcellus", serif;
+    margin-top: 10px;
+}
+
+p {
+    font-family: "Marcellus", serif;
+    text-align: left;
+    margin-right: 160px;
+}
+
+/*body {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+*/
