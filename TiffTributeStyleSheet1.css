@@ -1,11 +1,10 @@
 ﻿#logo {
-    height: 75px;
-    width: 120px;
+    height: 100px;
+    width: 140px;
     display: block;
     margin-left: 70px;
     margin-right: auto;
     margin-top: 10px;
-    
     padding-bottom:10px;
 }
 
@@ -14,26 +13,34 @@ h1 {
     color: white;
     
 }
+li {
+    text-align: center;
+}
+
+h3 {
+    font-family: "Marcellus";
+    text-align: center;
+}
 
 #image {
-    box-shadow: 8px 10px 8px #62197d;
-    align-content: center;
+    box-shadow: 8px 10px 15px #62197d;
+    /*align-content: center;*/
+    justify-content:flex-start;
+    border-radius: 80px;
 }
 
 #img-caption {
     font-family: "Marcellus", serif;
-    margin-top: 10px;
+    margin-top: 25px;
 }
 
 p {
     font-family: "Marcellus", serif;
-    text-align: left;
-    margin-right: 160px;
+    text-indent:50px;
+   /*text-align: left;
+    margin-right: 160px;*/
 }
 
-/*body {
-    margin: auto;
-    width: 50%;
-    padding: 10px;
-}
-*/
+ 
+
+
